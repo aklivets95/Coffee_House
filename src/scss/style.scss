@@ -1,11 +1,2 @@
 @import 'normalize.css';
-h1 {
-    color: red;
-}
-
-body {
-    background-color: aqua;
-    h1 {
-        font-size: 40px;
-    }
-}
+@import './blocks/header.scss';
